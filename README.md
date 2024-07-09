@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Fullstack Developement**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **MERN**
 
